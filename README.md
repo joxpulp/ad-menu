@@ -1,2 +1,2 @@
 # ad-menu
-This is an ad with a menu
+A little mini site with CSS
